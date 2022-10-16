@@ -9,7 +9,7 @@
 
 1° - abrir um terminal no visual studio, ou outra IDE de seu gosto executar o comando "npm i prisma"
 
-2° - No terminal ao instalar a depedência do prisma executar o comando "npx prisma init --datasource-provider mysql", caso queira usar o mysql se não pode ser usado o mysql, postgrees, sqllite, oracle e mongoDB.
+2° - No terminal ao instalar a depedência do prisma executar o comando "npx prisma init --datasource-provider mysql", caso queira usar o mysql se não pode ser usado o mysql, postgres, sqllite, oracle e mongoDB.
 
 3° - Na pasta que foi gerada pelo prisma em /prisma/schema.prisma coloque um schema de banco de dados 
 
